@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "name": "Codeium",
+    "description": "AI-powered code completion and suggestions.",
+    "category": "Code",
+    "website": "https://codeium.com",
+    "logo": "https://logo.clearbit.com/codeium.com",
+    "tags": ["Free"],
+    "featured": false
+  },
+  {
+    "id": 2,
+    "name": "Replit",
+    "description": "Collaborative online IDE and coding platform.",
+    "category": "Code",
+    "website": "https://replit.com",
+    "logo": "https://logo.clearbit.com/replit.com",
+    "tags": ["Popular", "Freemium"],
+    "featured": false
+  },
+  {
+    "id": 3,
+    "name": "Zencoder AI",
+    "description": "AI-powered code generation and assistance.",
+    "category": "Code",
+    "website": "https://zencoder.com",
+    "logo": "https://logo.clearbit.com/zencoder.com",
+    "tags": ["AI", "Code"],
+    "featured": false
+  },
+  {
+    "id": 4,
+    "name": "Tabnine",
+    "description": "AI code completion for faster development.",
+    "category": "Code",
+    "website": "https://tabnine.com",
+    "logo": "https://logo.clearbit.com/tabnine.com",
+    "tags": ["Popular", "Freemium"],
+    "featured": false
+  },
+  {
+    "id": 5,
+    "name": "Craiyon",
+    "description": "AI image generator from text prompts.",
+    "category": "Image",
+    "website": "https://craiyon.com",
+    "logo": "https://logo.clearbit.com/craiyon.com",
+    "tags": ["Free"],
+    "featured": false
+  },
+  {
+    "id": 6,
+    "name": "Playground AI",
+    "description": "Create and edit images with AI.",
+    "category": "Image",
+    "website": "https://playgroundai.com",
+    "logo": "https://logo.clearbit.com/playgroundai.com",
+    "tags": ["Popular", "Freemium"],
+    "featured": false
+  },
+  {
+    "id": 7,
+    "name": "Lexica",
+    "description": "AI-powered image search and generation.",
+    "category": "Image",
+    "website": "https://lexica.art",
+    "logo": "https://logo.clearbit.com/lexica.art",
+    "tags": ["Free"],
+    "featured": false
+  },
+  {
+    "id": 8,
+    "name": "Dezgo",
+    "description": "AI image generator from text.",
+    "category": "Image",
+    "website": "https://dezgo.com",
+    "logo": "https://logo.clearbit.com/dezgo.com",
+    "tags": ["Free"],
+    "featured": false
+  },
+  {
+    "id": 9,
+    "name": "Photopea",
+    "description": "Online photo editor with AI features.",
+    "category": "Image",
+    "website": "https://photopea.com",
+    "logo": "https://logo.clearbit.com/photopea.com",
+    "tags": ["Popular", "Free"],
+    "featured": false
+  },
+  {
+    "id": 10,
+    "name": "Notion",
+    "description": "All-in-one workspace for notes, tasks, and wikis.",
+    "category": "Productivity",
+    "website": "https://notion.so",
+    "logo": "https://logo.clearbit.com/notion.so",
+    "tags": ["Popular", "Freemium"],
+    "featured": false
+  },
+  {
+    "id": 11,
+    "name": "Trello",
+    "description": "Visual collaboration tool for planning and organizing.",
+    "category": "Productivity",
+    "website": "https://trello.com",
+    "logo": "https://logo.clearbit.com/trello.com",
+    "tags": ["Popular", "Freemium"],
+    "featured": false
+  },
+  {
+    "id": 12,
+    "name": "Grammarly",
+    "description": "AI-powered writing assistant for grammar and style.",
+    "category": "Productivity",
+    "website": "https://grammarly.com",
+    "logo": "https://logo.clearbit.com/grammarly.com",
+    "tags": ["Popular", "Freemium"],
+    "featured": false
+  },
+  {
+    "id": 13,
+    "name": "ClickUp",
+    "description": "Productivity platform for tasks, docs, and goals.",
+    "category": "Productivity",
+    "website": "https://clickup.com",
+    "logo": "https://logo.clearbit.com/clickup.com",
+    "tags": ["Popular", "Freemium"],
+    "featured": false
+  },
+  {
+    "id": 14,
+    "name": "QuillBot",
+    "description": "AI paraphrasing and grammar checking tool.",
+    "category": "Text",
+    "website": "https://quillbot.com",
+    "logo": "https://logo.clearbit.com/quillbot.com",
+    "tags": ["Popular", "Freemium"],
+    "featured": false
+  },
+  {
+    "id": 15,
+    "name": "Scribbr",
+    "description": "AI-powered proofreading and plagiarism checker.",
+    "category": "Text",
+    "website": "https://scribbr.com",
+    "logo": "https://logo.clearbit.com/scribbr.com",
+    "tags": ["Freemium"],
+    "featured": false
+  },
+  {
+    "id": 16,
+    "name": "Hemingway Editor",
+    "description": "Tool for clear and bold writing style.",
+    "category": "Text",
+    "website": "https://hemingwayapp.com",
+    "logo": "https://logo.clearbit.com/hemingwayapp.com",
+    "tags": ["Free"],
+    "featured": false
+  },
+  {
+    "id": 17,
+    "name": "Copy.ai",
+    "description": "AI-powered copywriting and content generation.",
+    "category": "Text",
+    "website": "https://copy.ai",
+    "logo": "https://logo.clearbit.com/copy.ai",
+    "tags": ["Popular", "Freemium"],
+    "featured": false
+  },
+  {
+    "id": 18,
+    "name": "WriterHand",
+    "description": "AI writing assistant for content creation.",
+    "category": "Text",
+    "website": "https://writerhand.com",
+    "logo": "https://logo.clearbit.com/writerhand.com",
+    "tags": ["AI", "Text"],
+    "featured": false
+  },
+  {
+    "id": 19,
+    "name": "Veed.io",
+    "description": "Online video editing platform with AI features.",
+    "category": "Video",
+    "website": "https://veed.io",
+    "logo": "https://logo.clearbit.com/veed.io",
+    "tags": ["Popular", "Freemium"],
+    "featured": false
+  },
+  {
+    "id": 20,
+    "name": "Kapwing",
+    "description": "Collaborative video editing with AI tools.",
+    "category": "Video",
+    "website": "https://kapwing.com",
+    "logo": "https://logo.clearbit.com/kapwing.com",
+    "tags": ["Popular", "Freemium"],
+    "featured": false
+  },
+  {
+    "id": 21,
+    "name": "Runway ML",
+    "description": "Creative AI tools for video editing and generation.",
+    "category": "Video",
+    "website": "https://runwayml.com",
+    "logo": "https://logo.clearbit.com/runwayml.com",
+    "tags": ["Popular", "Freemium"],
+    "featured": false
+  },
+  {
+    "id": 22,
+    "name": "Invideo",
+    "description": "AI-powered video creation and editing platform.",
+    "category": "Video",
+    "website": "https://invideo.io",
+    "logo": "https://logo.clearbit.com/invideo.io",
+    "tags": ["Popular", "Freemium"],
+    "featured": false
+  }
+]
