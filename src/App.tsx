@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useMemo } from 'react';
+import { useState, useEffect, useMemo } from 'react';
 import Header from './components/Header';
 import ToolCard from './components/ToolCard';
 import { useLocalStorage } from './hooks/useLocalStorage';
@@ -60,9 +60,9 @@ function App() {
   }, [tools, selectedCategory, searchQuery, showBookmarks, bookmarkedTools]);
 
   const toggleBookmark = (toolId: number) => {
-    setBookmarkedTools(prev => 
-      prev.includes(toolId) 
-        ? prev.filter(id => id !== toolId)
+    setBookmarkedTools((prev: number[]) =>
+      prev.includes(toolId)
+        ? prev.filter((id: number) => id !== toolId)
         : [...prev, toolId]
     );
   };

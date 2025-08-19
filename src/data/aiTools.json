@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "Codeium",
+    "name": "Windsurf",
     "description": "AI-powered code completion and suggestions.",
     "category": "Code",
     "website": "https://codeium.com",
@@ -219,4 +219,121 @@
     "tags": ["Popular", "Freemium"],
     "featured": false
   }
+  ,
+  {
+    "id": 25,
+    "name": "ChatGPT",
+    "description": "OpenAI's conversational AI for text generation and assistance.",
+    "category": "Text",
+    "website": "https://chat.openai.com/",
+    "logo": "https://logo.clearbit.com/openai.com",
+    "tags": ["Free", "AI"],
+    "featured": false
+  },
+  {
+    "id": 26,
+    "name": "Google Gemini",
+    "description": "Google's Gemini AI for text generation and chat, free tier.",
+    "category": "Text",
+    "website": "https://gemini.google.com/",
+    "logo": "https://logo.clearbit.com/google.com",
+    "tags": ["Free", "AI"],
+    "featured": false
+  }
+  ,
+  {
+    "id": 23,
+    "name": "DeepSeek",
+    "description": "Advanced AI code assistant for code generation and completion.",
+    "category": "Code",
+    "website": "https://deepseek.com",
+    "logo": "https://logo.clearbit.com/deepseek.com",
+    "tags": ["AI", "Code"],
+    "featured": false
+  },
+  {
+    "id": 24,
+    "name": "Gemini",
+    "description": "Google's AI model for code generation and assistance.",
+    "category": "Code",
+    "website": "https://deepmind.google/technologies/gemini/",
+    "logo": "https://logo.clearbit.com/google.com",
+    "tags": ["AI", "Code"],
+    "featured": false
+  }
+    ,
+    {
+      "id": 27,
+      "name": "Bing Image Creator (DALL·E 3)",
+      "description": "Free daily credits, realistic images using DALL·E 3.",
+      "category": "Image",
+      "website": "https://www.bing.com/images/create",
+      "logo": "https://logo.clearbit.com/bing.com",
+      "tags": ["Free", "AI"],
+      "featured": false
+    },
+    {
+      "id": 28,
+      "name": "Canva Magic Media (Free tier)",
+      "description": "Generate & edit images in Canva with AI (Free tier).",
+      "category": "Image",
+      "website": "https://www.canva.com/ai-image-generator/",
+      "logo": "https://logo.clearbit.com/canva.com",
+      "tags": ["Free", "AI"],
+      "featured": false
+    }
+    ,
+    {
+      "id": 29,
+      "name": "Lumen5 (Free plan)",
+      "description": "Turn text/blogs into videos with the free plan.",
+      "category": "Video",
+      "website": "https://lumen5.com/",
+      "logo": "https://logo.clearbit.com/lumen5.com",
+      "tags": ["Free", "AI"],
+      "featured": false
+    },
+    {
+      "id": 30,
+      "name": "Pika Labs (Free credits)",
+      "description": "Creative short AI videos with free credits.",
+      "category": "Video",
+      "website": "https://pika.art/",
+      "logo": "https://logo.clearbit.com/pika.art",
+      "tags": ["Free", "AI"],
+      "featured": false
+    }
+    ,
+    {
+      "id": 31,
+      "name": "Mem.ai (Free)",
+      "description": "Smart note-taking plus AI-powered reminders and task management.",
+      "category": "Productivity",
+      "website": "https://mem.ai/",
+      "logo": "https://logo.clearbit.com/mem.ai",
+      "tags": ["Free", "AI"],
+      "featured": false
+    }
+    ,
+    {
+      "id": 32,
+      "name": "Microsoft Copilot",
+      "description": "AI-powered productivity assistant by Microsoft, integrated with Microsoft 365.",
+      "category": "Productivity",
+      "website": "https://copilot.microsoft.com/",
+      "logo": "https://logo.clearbit.com/microsoft.com",
+      "tags": ["AI", "Productivity"],
+      "featured": false
+    }
+    ,
+    {
+      "id": 33,
+      "name": "Grok AI",
+      "description": "Conversational AI by xAI, designed for real-time information and productivity.",
+      "category": "Productivity",
+      "website": "https://grok.x.ai/",
+      "logo": "https://logo.clearbit.com/x.ai",
+      "tags": ["AI", "Productivity"],
+      "featured": false
+    }
 ]
